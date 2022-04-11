@@ -3,3 +3,6 @@
 ### Project information
 
 ### Tools and technologies
+
++ Jupyter Notebook
++ Python Pandas
